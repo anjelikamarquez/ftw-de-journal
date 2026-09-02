@@ -6,7 +6,8 @@
 ## What I learned
 - Using UNION ALL to create one table for data profiling multiple tables and columns
 - Casting columns as strings to have one uniform data type for max/min values.
-- Max/min values are not really useful for strings. 
+- Max/min values are not really useful for strings.
+- Using [title](link) to put link in md file
 
 ## Terms I am still learning
 - **term** - my definition in simple words
