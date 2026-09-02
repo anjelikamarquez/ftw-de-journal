@@ -16,7 +16,7 @@
 - 
 
 ## One small next step
-- [ ] 
+- [ ] [Explore Assoc Data engg in Databricks](https://app.datacamp.com/learn/career-tracks/associate-data-engineer-in-databricks)
 
 ## Git checkpoint
 - [x] I created or updated a file
@@ -32,12 +32,12 @@
 
 ## Reflection (optional)
 - What felt easy today?
-- I understand the use of UNION ALL
+> I understand the use of UNION ALL
 - What felt difficult today?
-- ChatGPT suggested that I use pyspark for easier data profiling. I am not confident in my python skills as of now. I can only do and understand SQL codes. 
+> ChatGPT suggested that I use pyspark for easier data profiling. I am not confident in my python skills as of now. I can only do and understand SQL codes. 
 - What do I want to understand better next time?
-- How to use pyspark
-- How to code data profiling from scratch without the help of AI
+> How to use pyspark
+> How to code data profiling from scratch without the help of AI
 
 ## Mood or meme (optional)
 - 
