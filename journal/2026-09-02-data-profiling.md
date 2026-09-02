@@ -7,18 +7,21 @@
 - Using UNION ALL to create one table for data profiling multiple tables and columns
 - Casting columns as strings to have one uniform data type for max/min values.
 - Max/min values are not really useful for strings.
+- Using COUNT (*) - COUNT(column_name) to count NULL values
 - Using [title](link) to put link in md file
 
 ## Terms I am still learning
-- **term** - my definition in simple words
+- **Common Table Expressions** - virtual table that can be discarded after use
 - 
 
 ## What confused me
-- 
+- Pyspark in general
 
 ## One small next step
+-[ ] [Data Manipulation in SQL](https://app.datacamp.com/learn/courses/data-manipulation-in-sql)
+## Goals this week
+-[ ] [Intro to Pyspark](https://app.datacamp.com/learn/courses/introduction-to-pyspark)
 - [ ] [Explore Assoc Data engg in Databricks](https://app.datacamp.com/learn/career-tracks/associate-data-engineer-in-databricks)
-
 ## Git checkpoint
 - [x] I created or updated a file
 - [x] I wrote a commit
