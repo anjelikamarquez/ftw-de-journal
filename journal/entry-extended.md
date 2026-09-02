@@ -19,9 +19,9 @@
 - [ ] 
 
 ## Git checkpoint
-- [ x] I created or updated a file
-- [x ] I wrote a commit
-- [ x] I pushed my changes
+- [x] I created or updated a file
+- [x] I wrote a commit
+- [x] I pushed my changes
 
 ## Decisions or assumptions (optional)
 - 
