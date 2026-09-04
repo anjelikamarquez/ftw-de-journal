@@ -12,9 +12,9 @@
 - [ ] Take the time to practice SQL daily
 
 ## Git checkpoint
-- [ x ] I created or updated a file
-- [ x ] I wrote a commit
-- [ x ] I pushed my changes
+- [x] I created or updated a file
+- [x] I wrote a commit
+- [x]  I pushed my changes
 
 ## Other Chika
 Resources for SQL practice:
