@@ -17,5 +17,6 @@
 
 ## Other Chika
 Resources for SQL practice:
-- [SQL Bolt](https://sqlbolt.com/)
+- [SQL Bolt](https://sqlbolt.com/) Until lesson 6 so far
+
 
