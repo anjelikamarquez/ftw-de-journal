@@ -1,0 +1,43 @@
+# Journal - {{DATE}} - {{TOPIC OR DAY N}}
+
+## Today in one sentence
+- You're a SPARK in the dark and my clothes are caught aflame
+
+## What I learned
+- Spark is an engine, SQL is a language. SQL is best used when simplicity matters while Spark is used for complex logic. SQL better for smaller data. 
+- Filter first before joining tables. Much cheaper. 
+- Building a dq dashboard
+- Hierarchy of data transformations in Pyspark: Select, filter, withcolumn(), join, groupby - Agg(), orderby(), limit()
+
+
+## Terms I am still learning
+- **Shuffle** - moving data between different nodes. [Read more here](https://www.querifylabs.com/blog/data-shuffling-in-distributed-sql-engines)
+- **Parallelism** - Sabay sabay na pagcocompute
+- **Partitions** - Chunks of data
+
+## What confused me
+- I can understand SQL coding from select, where, group by, join, order by, and case when. I have to study With/CTE and Window Functions. 
+
+## One small next step
+- [ ] Chapter 2 of data manipulation in SQL
+
+## Git checkpoint
+- [x] I created or updated a file
+- [x] I wrote a commit
+- [x] I pushed my changes
+- [x] Added an image in a fle
+
+## Decisions or assumptions (optional)
+- 
+
+## Evidence from today (optional)
+- ![pyspark cheatsheet](insert link here)
+- 
+
+## Reflection (optional)
+- What felt easy today? Understanding DQ issues and how to flag these
+- What felt difficult today? Translating SQL code to pyspark code. 
+- What do I want to understand better next time? Learn window functions. 
+
+## Mood or meme (optional)
+- I'm a heart made of wax, and I'm melting in the sun~
