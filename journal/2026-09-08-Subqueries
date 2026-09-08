@@ -30,7 +30,7 @@ Use this version only if you want more structure. The basic `entry.md` is enough
 - 
 
 ## Evidence from today (optional)
- ![subqueries](link here)
+ ![subqueries](../assets/subqueries.png)
 
  - Learn more about SQL code formatting here: [Holywell's Style Guide](https://www.sqlstyle.guide/)
 
