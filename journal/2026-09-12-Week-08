@@ -1,0 +1,43 @@
+# Journal - {{2026-09-12}} - {{WEEK 8}}
+
+## Today in one sentence
+- My head is spinning and my stomach is sick~
+
+## What I learned
+- How to append or update and merge incoming new data
+- Ingest data through requesting JSON file from API, saving as datframe and then saving as a table in a catalog
+
+## Terms I am still learning
+- **SCD** - slowly changing dimensions
+- **CDC** - Change data capture
+- **idempotency** - When code is rerun, the results are the same given the same data source.
+- **API** - Application Programming Interface, anything u interact with.
+- **Pagination** - pages for long datasets
+- **DDoS** - Distributed Denial of Service
+- **timeouts** - Certain time to send and receive requests
+
+## What confused me
+- Need more practice with ingesting using API and JSON.
+- Actually forgot how to do webscraping but can be reviewed for next time :D
+
+## Two small next steps
+- [ ] Try ingesting 1 months - 3 months worth of data from homework
+- [ ] Finish ch 3 Data manip
+
+## Git checkpoint
+- [x] I created or updated a file
+- [ ] I wrote a commit
+- [x] I pushed my changes
+
+## Decisions or assumptions (optional)
+- Wrong assumptions: Just IDs to determine uniqueness of the grain/row in a fact table. It takes more than that. I think the combinations of all the FKs talaga. 
+
+## Evidence from today (optional)
+
+## Reflection (optional)
+- What felt easy today? Following instructions on MERGING and getting data from websites.
+- What felt difficult today? Probably cant do webscraping for now.
+- What do I want to understand better next time? Dapat seamlessly makapagcode for ingesting from the web
+
+## Mood or meme (optional)
+- Head just keeps on pounding with the simple thought "What if this isn't what I want?"
